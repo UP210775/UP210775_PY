@@ -72,7 +72,7 @@ while True:
 - - - 
 ```
 ## Run code 
-![m]("C:\Users\joshu\OneDrive\Imágenes\README\Numero secreto.png")
+![flowchart](/imagenes/README/Numero secreto.png)
 - - - 
 ## Boleto
 - - - 
